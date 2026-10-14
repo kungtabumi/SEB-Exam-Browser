@@ -1,0 +1,6 @@
+{
+  "name": "SMAN 1 Kepanjen Secure Exam Browser",
+  "description": "Secure Exam Browser universal untuk berbagai platform ujian online (CBT, Google Forms, Moodle, LMS, dan Web Ujian) dengan QR Scanner, Allowlist security, dan Exam Lock Mode untuk SMAN 1 Kepanjen.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
